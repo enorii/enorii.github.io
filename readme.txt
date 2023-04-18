@@ -3,7 +3,7 @@ alexander fazio
 
 
 ArmaMint
-Creative Director
+Creative Director and Game Designer
 directed team of ~25 people
 designed core concept and game vision
 coordinated with 4 other game designers to keep game vision intact
@@ -47,6 +47,6 @@ Assisted with QA and debugging.
 2019 Global Game Jam : Home Boi
 Game Designer
 https://globalgamejam.org/2019/games/home-boi
-Came up with and iterated on the general idea for the game, while narrowing down scope to adhere with the short timeframe.
+Conceptualized general game idea, while narrowing down scope to adhere with the short timeframe.
 Sourced most art assets.
 Advised on general game behavior and relevant scripting.
